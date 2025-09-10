@@ -1,0 +1,57 @@
+# Python
+__pycache__/
+*.pyc
+*.pyd
+*.pyo
+*.egg-info/
+.Python
+
+# Flet
+.flet/
+
+# Virtual environment
+.venv/
+virtualenv/
+env/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Logs and databases
+*.log
+*.sqlite3
+
+# IDEs
+.idea/
+.vscode/
+
+# Compiled files
+*.exe
+*.dll
+*.so
+
+# Distribution
+dist/
+build/
+*.egg
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# MyPy
+.mypy_cache/
+
+# pytest
+.pytest_cache/
+
+# Coverage
+.coverage
+.coverage.*
+htmlcov/
+.tox/
+
+# Temporary files
+*.tmp
+*.bak
+*.swp
