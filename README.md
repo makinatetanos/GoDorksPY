@@ -1,6 +1,6 @@
 # GoDorksPY - Herramienta OSINT con Google Dorks
 
-![GoDorksPY Screenshot](URL_DE_TU_CAPTURA_DE_PANTALLA_AQUI) <!-- Reemplaza esta URL con la de tu captura de pantalla alojada --> <!-- Placeholder for a future screenshot -->
+![GoDorksPY Screenshot](captura.png) <!-- Reemplaza esta URL con la de tu captura de pantalla alojada --> <!-- Placeholder for a future screenshot -->
 
 ## Descripción
 
