@@ -1,6 +1,6 @@
 # GoDorksPY - Herramienta OSINT con Google Dorks
 
-![GoDorksPY Screenshot](https://via.placeholder.com/600x400?text=GoDorksPY+Screenshot) <!-- Placeholder for a future screenshot -->
+![GoDorksPY Screenshot](URL_DE_TU_CAPTURA_DE_PANTALLA_AQUI) <!-- Reemplaza esta URL con la de tu captura de pantalla alojada --> <!-- Placeholder for a future screenshot -->
 
 ## Descripción
 
@@ -21,7 +21,7 @@ Para ejecutar GoDorksPY, necesitarás tener Python instalado en tu sistema. Lueg
 
 1.  **Clona el repositorio** (si aún no lo has hecho):
     ```bash
-    git clone https://github.com/makinatetanos/GoDorksPY.git # Reemplaza con la URL de tu repositorio
+    git clone https://github.com/makinatetanos/GoDorksPY.git 
     cd GoDorksPY
     ```
 2.  **Instala Flet** y las dependencias:
