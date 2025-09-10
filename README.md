@@ -21,7 +21,7 @@ Para ejecutar GoDorksPY, necesitarás tener Python instalado en tu sistema. Lueg
 
 1.  **Clona el repositorio** (si aún no lo has hecho):
     ```bash
-    git clone https://github.com/tu_usuario/GoDorksPY.git # Reemplaza con la URL de tu repositorio
+    git clone https://github.com/makinatetanos/GoDorksPY.git # Reemplaza con la URL de tu repositorio
     cd GoDorksPY
     ```
 2.  **Instala Flet** y las dependencias:
